@@ -19,8 +19,8 @@ O objetivo é praticar **estrutura semântica**, **links internos**, **listas** 
 ## 🖥 Como Visualizar
 
 1. Clone este repositório:
-   ```bash
+      ```bash
    git clone https://github.com/gabrielaalvesop/projeto_html_iniciante.git
-2.Abra o arquivo index.html no seu navegador favorito.
-
+2. Abra o arquivo index.html no seu navegador favorito.
 3. Explore o site!
+
